@@ -1,15 +1,8 @@
-## Welcome to HAOPENG LING'S HOME PAGE
+## DESCRIPTIONS
+this page was build by a beginner of a web developer in the end of 2017, I would like to make a conclusion about what I got in the course "Web Applications Security".
 
-You can use the [editor on GitHub](https://github.com/hardcorema/hardcorema.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### SKILLS
+1.
 
 # Header 1
 ## Header 2
