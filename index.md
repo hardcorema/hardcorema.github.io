@@ -3,6 +3,7 @@ this page was build by a beginner of a web developer in the end of 2017, I would
 
 ### SKILLS
 1.
+2.
 
 # Header 1
 ## Header 2
