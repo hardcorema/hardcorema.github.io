@@ -2,17 +2,12 @@
 this page was build by a beginner of a web developer in the end of 2017, I would like to make a conclusion about what I got in the course "Web Applications Security".
 
 ### SKILLS
-1.The ability in LAMP(Linux,Apache,Mysql,PHP) stack;
-2.The ability in MEAN(MongoDB,ExpressJS,AngularJS,Node.js) stack;
-3.The ability in Serverless-Stacks(FireBase);
-4.the ability in different attacks(XSS,CSRF,SQL injection);
+1.The ability in LAMP(Linux,Apache,Mysql,PHP) stack;<br>
+2.The ability in MEAN(MongoDB,ExpressJS,AngularJS,Node.js) stack;<br>
+3.The ability in Serverless-Stacks(FireBase);<br>
+4.the ability in different attacks(XSS,CSRF,SQL injection);<br>
 
 ### PROJECTS
-skills:
-1.The ability in LAMP(Linux,Apache,Mysql,PHP) stack;
-2.The ability in MEAN(MongoDB,ExpressJS,AngularJS,Node.js) stack;
-3.The ability in Serverless-Stacks(FireBase);
-4.the ability in different attacks(XSS,CSRF,SQL injection)
 
 PROJECTS:
 project 1.The first project is about the a Text-twist game, we build this project based on LAMP stack, use HTML,MYSQL,CSS,PHP and Javascript, I think this project is a basic project for a beginner to show them how these five parts work together, like what should we do if we want to modify the  page structure or how to make the page more beacutiful and also how a click can trigger a function, in a word, doing this project can give you a very basic idea about how a web can be built and how a web works.
