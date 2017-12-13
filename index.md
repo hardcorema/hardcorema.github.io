@@ -32,7 +32,7 @@ _Personally, I prefer the MEAN stack, that's because the MEAN make things easy, 
 _if you just need to build a self page, I think use the github is a good way, you don't need to be an expertise in CSS and you can get a beautiful page by yourself._
 
 ## Subdomain Test:
-[subpage](test.superl.me)
+[subpage]( http://test.superl.me/)
 
 ## Contract me
 email: superl@udel.edu
