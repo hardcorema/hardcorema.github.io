@@ -25,5 +25,5 @@ Project 3. The last project is what you see now, I publish a page though github,
 Personally, I prefer the MEAN stack more, that's because the MEAN make things easy, I can use a single language "javascript" rather "PHP+javascript", also, the mongoDB is friendly. What's more, the node.js has so much powerful npm which surprice me;<br>
 if you just need to build a self page, I think use the github is a good way, it not require you to be an expertise, what you need to learn just how to build a page by github and how to publish this page to your own domain;
 
-
-
+### Contract me
+email: superl@udel.edu
