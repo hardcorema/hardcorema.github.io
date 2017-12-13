@@ -13,8 +13,8 @@ _1.The ability in LAMP(Linux,Apache,Mysql,PHP) stack;<br>
 
 **Project 1**._The first project is about the a Text-twist game, we build this project based on LAMP stack based HTML, MYSQL, CSS, PHP and Javascript, I think this project is a basic project for a beginner to show them how these five parts work together, like what should we do if we want to modify the  page structure or how to make the page more beacutiful and also how a click can trigger a function, in a word, doing this project can give you a very basic idea about how a web can be built and how a web works.<br>
 you can download this project from my github:[Text-Twist Game](https://github.com/superlll/test_twist)._<br>
-or doing following command in your bash:<br>
-"git clone https://github.com/superlll/test_twist.git"
+_or doing following command in your bash:<br>
+"git clone https://github.com/superlll/test_twist.git"_
 
 
 **Project 2**._The second project is build a Login System web page based on  MEAN stack, becasue the LAMP stack first in my mind, things going to be more easier to understand because I can map the MEAN to LAMP and that's  will make you more quick to understand how a MEAN stack works, our project achieve these functions:login,register,change password and Oauth Github. What's more, we also encrypt the user's password for security;<br>_
