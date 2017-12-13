@@ -11,8 +11,8 @@ this page was build by a beginner of a web developer in the end of 2017, I would
 
 Project 1.The first project is about the a Text-twist game, we build this project based on LAMP stack, use HTML,MYSQL,CSS,PHP and Javascript, I think this project is a basic project for a beginner to show them how these five parts work together, like what should we do if we want to modify the  page structure or how to make the page more beacutiful and also how a click can trigger a function, in a word, doing this project can give you a very basic idea about how a web can be built and how a web works.<br>
 you can download this project from my github:<br>
-[Text-Twist Game](https://github.com/superlll/test-twist-game).<br>
-or do command: git clone "https://github.com/superlll/test-twist-game.git" in bash
+[Text-Twist Game](https://github.com/superlll/test_twist).<br>
+or do command: "git clone https://github.com/superlll/test_twist.git" in bash
 
 Project 2.The second project is build a Login System web page based on  MEAN stack, becasue the LAMP stack first in my mind, things going to be more easier to understand because I can map the MEAN to LAMP and that's  will make you more quick to understand how a MEAN stack works, our project achieve these functions:login,register,change password and Oauth Github. What's more, we also encrypt the user's password for security;<br>
 you can download this project from my github:<br>
