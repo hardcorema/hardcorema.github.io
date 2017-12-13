@@ -17,10 +17,10 @@ or doing following command in your bash:<br>
 "git clone https://github.com/superlll/test_twist.git"
 
 
-**Project 2**._The second project is build a Login System web page based on  MEAN stack, becasue the LAMP stack first in my mind, things going to be more easier to understand because I can map the MEAN to LAMP and that's  will make you more quick to understand how a MEAN stack works, our project achieve these functions:login,register,change password and Oauth Github. What's more, we also encrypt the user's password for security;<br>
-you can download this project from my github:[Login-System](https://github.com/superlll/LoginSystem).<br>
+**Project 2**._The second project is build a Login System web page based on  MEAN stack, becasue the LAMP stack first in my mind, things going to be more easier to understand because I can map the MEAN to LAMP and that's  will make you more quick to understand how a MEAN stack works, our project achieve these functions:login,register,change password and Oauth Github. What's more, we also encrypt the user's password for security;<br>_
+_you can download this project from my github:[Login-System](https://github.com/superlll/LoginSystem).<br>
 or doing following command in your bash:<br>
-"git clone https://github.com/superlll/LoginSystem.git" 
+"git clone https://github.com/superlll/LoginSystem.git"_ 
 
 
 **Project 3**. _The last project is what you see now, I publish a page though github, the domain name is bought from NameCheap, use the github to publish a page will be convenience, you don't need to care about any code or sytle, even you do not need to bought a domain, the github offer it. If you want to pulish the page to your own domain, you just need to do some extra work;_ <br>
